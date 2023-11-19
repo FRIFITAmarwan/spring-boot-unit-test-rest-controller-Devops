@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bezkoder</groupId>
-	<artifactId>spring-boot-rest-controller-unit-test</artifactId>
+	<artifactId>Devops</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-rest-controller-unit-test</name>
 	<description>Spring Boot test Rest Controller with @WebMvcTest</description>
